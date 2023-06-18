@@ -4,7 +4,7 @@ Submitted by: **Belen Saavedra**
 
 **basic app** is an app that shows my basic info
 
-Time spent: 30 mins spent in total
+Time spent: 1 hour spent in total
 
 ## Required Features
 
@@ -17,17 +17,25 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
+![prework](https://github.com/bsaavedrabo/Prework_iOS_Codepath/assets/89317189/4935ea9b-2353-4bc5-81e4-4463d3135dfe)
+
+GIF created with  
+
 [Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
 
+Favorite Apps:
+- Duolingo
+- Instagram
+- myRadar
+
+App Idea: 
+Problem:
+Berea College students struggle to get around without owning a car and public transportation (FootHills) has limited hours. Due to personal experiences as international students, we were inspired to create a solution that would not only support people to find rides faster (rather than begging people on the Facebook group) but also get open a gig for people who own cars on campus.
+Solution: 
+iOS app that allows Berea College students to earn $ and/or find rides faster
 
 ## Notes
 
